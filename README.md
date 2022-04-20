@@ -1,5 +1,4 @@
 - 👋 hola soy @mayhrina30
-- soy de mendoza
 - 🌱 I’m currently estoy estudiando en la UTN tecnica en programacion
 - 💞️ I’m looking to collaborate on lo que sea
 
