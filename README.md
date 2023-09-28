@@ -1,7 +1,3 @@
-
-![ParentsTheSimpsonsGIF](https://github.com/mayhrina30/mayhrina30/assets/92487756/fef24325-5bed-41df-bd71-c3884b06ddcb)
-
-
 ### Hi there 👋
 
 
