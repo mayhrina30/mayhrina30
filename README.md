@@ -5,22 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🔭 I am currently studying at UTN university
+- 👯 I am looking to collaborate on a project where I can apply knowledge
+- 😄 Pronouns: ...SHE
 
 
 
 
 # 💫 About Me:
-actualmente soy estudiante la la tecnicatura en programacion me encanta las tecnologia 
-
+Hola! Soy Mayra,  estudiante de Tecnicatura en Programacion en la Universidad Utn. 
+Mi objetivo es combinar mi formación académica con la pasión por la tecnologia para contribuir de manera significativa en el mundo profesional. A pesar de mi falta de experiencia laboral, he estado dedicando tiempo y esfuerzo en seguir apendiendo.
+Siempre estoy abierto a oportunidades de aprendizaje y colaboración.
+Me encantaría conectarme con otros profesionales y estudiantes apasionados que compartan intereses en Frontend y backend Si tienes preguntas, ideas para colaboraciones o simplemente deseas conectarme, no dudes en enviarme un mensaje. Estoy ansioso por construir una red sólida en este emocionante campo.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mayra-anabel-manzaneda) 
@@ -44,8 +40,6 @@ actualmente soy estudiante la la tecnicatura en programacion me encanta las tecn
 ---
 [![](https://visitcount.itsvg.in/api?id=mayhrina30&icon=7&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/feliz) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
