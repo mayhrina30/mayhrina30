@@ -1,5 +1,5 @@
 
-<h1> aling="center" Hola soy Mayra</h1>
+<h1> Hola soy Mayra</h1>
 
 
 ## 🌐 Socials:
