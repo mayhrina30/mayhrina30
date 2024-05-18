@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I am currently studying at UTN university<br>- 👯 I am looking to collaborate on a project where I can apply knowledge<br>- 😄 Pronouns: ...SHE
+<div aling ="center">
+<h1> aling="center" Hola soy Mayra</h1>
 
 
 ## 🌐 Socials:
