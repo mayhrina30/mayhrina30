@@ -1,5 +1,5 @@
 <div aling="center;">
-  <img src="https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif" alt="GIF Animado" style="width: 200px; height: auto;">
+  <img src=Foto de Perfil de LinkedIn Programador Geometrica Blanca Amarilla.gif>
 </div>
 
 
