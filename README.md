@@ -1,5 +1,5 @@
 <div aling="center;">
-  <img src=[Foto de Perfil de LinkedIn Programador Geometrica Blanca Amarilla.gif>](https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif))
+  <img src=(https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif))
 </div>
 
 
