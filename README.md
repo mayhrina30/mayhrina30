@@ -1,5 +1,6 @@
 <div style="text-align: center;">
  <h1>Hola soy Mayra</h1>
+ <h2>TRABAJANDO EN MI READMI....</h2>
 ## Sobre mí
 
 - 🌱 Actualmente estoy aprendiendo [tecnología o tema].
