@@ -1,7 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif" alt="GIF Animado" style="width: 200px; height: auto;">
-</div>
-
+ <h1>Hola soy Mayra</h1>
 ## Sobre mí
 
 - 🌱 Actualmente estoy aprendiendo [tecnología o tema].
