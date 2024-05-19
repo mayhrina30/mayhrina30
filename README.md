@@ -1,8 +1,6 @@
 # Bienvenidos a mi GitHub 👋
 
-<div style="text-align: center;">
-    <img src="https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif" alt="GIF Animado" style="width: 300px; height: 300px;">
-</div>
+<img src="https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif" alt="GIF Animado" style="width: 300px; height: 300px;" align="center">
 
 
 ## 🌐 Socials:
