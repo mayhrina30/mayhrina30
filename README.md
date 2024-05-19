@@ -1,6 +1,6 @@
 
 <h1> Hola soy Mayra</h1>
-![GIF Animado](ruta/a/tu-gif.gif)
+![GIF Animado][(https://github.com/mayhrina30/mayhrina30/blob/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif)]
 
 
 ## 🌐 Socials:
