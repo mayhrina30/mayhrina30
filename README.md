@@ -1,34 +1,60 @@
+# ![Tu Nombre](https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif)
+
 # Bienvenidos a mi GitHub 👋
+
+¡Hola! Soy [Tu Nombre], un apasionado desarrollador de software con experiencia en [área de especialización, por ejemplo, desarrollo web, aplicaciones móviles, inteligencia artificial, etc.]. Este es mi espacio donde comparto mis proyectos, colaboro con otros desarrolladores y contribuyo a la comunidad de código abierto.
+
+## GIF Animado
+
+Aquí tienes un GIF animado que muestra algo genial:
 
 <img src="https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif" alt="GIF Animado" style="width: 300px; height: 300px;" align="center">
 
+## Sobre mí
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayra-anabel-manzaneda) 
+- 🌱 Actualmente estoy aprendiendo [tecnología o tema].
+- 💼 Trabajo en [tu empresa o proyecto actual].
+- 📚 Me gusta explorar y aprender sobre [intereses o pasatiempos relacionados con la tecnología].
+- 💬 Pregúntame sobre [temas en los que tienes experiencia o puedes ayudar].
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mayhrina30&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mayhrina30&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayhrina30&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Mis Tecnologías y Herramientas
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayhrina30&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+- **Lenguajes de Programación**: [lista de lenguajes, por ejemplo, JavaScript, Python, Java, etc.]
+- **Frameworks y Librerías**: [lista de frameworks y librerías, por ejemplo, React, Angular, Django, etc.]
+- **Herramientas de Desarrollo**: [lista de herramientas, por ejemplo, VSCode, Git, Docker, etc.]
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## Proyectos Destacados
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mayhrina30&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### [Nombre del Proyecto 1]
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+Descripción breve del proyecto, sus características principales y tecnologías utilizadas.
+
+- **Repositorio**: [enlace al repositorio](https://github.com/tu-usuario/nombre-del-proyecto-1)
+- **Demo**: [enlace a la demo](https://enlace-a-la-demo.com)
+
+### [Nombre del Proyecto 2]
+
+Descripción breve del proyecto, sus características principales y tecnologías utilizadas.
+
+- **Repositorio**: [enlace al repositorio](https://github.com/tu-usuario/nombre-del-proyecto-2)
+- **Demo**: [enlace a la demo](https://enlace-a-la-demo.com)
+
+## Contribuciones y Colaboraciones
+
+Me encanta colaborar con otros desarrolladores y contribuir a proyectos de código abierto. Aquí hay algunas maneras en que podemos trabajar juntos:
+
+- **Issues**: Si encuentras algún problema en mis repositorios, no dudes en abrir un issue.
+- **Pull Requests**: Estoy abierto a recibir mejoras y correcciones a través de pull requests.
+- **Proyectos Colaborativos**: Si tienes una idea interesante y quieres colaborar, contáctame.
+
+## Contacto
+
+- **Correo**: [tu.correo@example.com](mailto:tu.correo@example.com)
+- **LinkedIn**: [tu perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario)
+- **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mayhrina30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Mayra&label=Profile%20Views&color=11&icon=3&pretty=false" />
-</a>
+¡Gracias por visitar mi GitHub! Si te gustan mis proyectos, considera darles una estrella ⭐ y seguirme para estar al tanto de mis actualizaciones.
+
+
