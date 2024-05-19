@@ -1,7 +1,8 @@
 
 <h1> Hola soy Mayra</h1>
-![GIF Animado](https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif)
-
+[![GIF Animado](https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif)
+](https://github.com/mayhrina30/mayhrina30/raw/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif
+)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayra-anabel-manzaneda) 
