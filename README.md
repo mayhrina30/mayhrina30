@@ -1,5 +1,6 @@
 
 <h1> Hola soy Mayra</h1>
+![GIF Animado](ruta/a/tu-gif.gif)
 
 
 ## 🌐 Socials:
