@@ -6,14 +6,14 @@
 
 ## Acerca de Mí
 
-- 🌱 Actualmente estoy aprendiendo: [Python y MongoB].
-- 👯 Estoy buscando colaborar en: [proyectos o tecnologías].
+- 🌱 Actualmente estoy aprendiendo: Python y MongoB.
+- 👯 Estoy buscando colaborar en: Proyectos de código abierto y eventos de programación.  .
 - 📫 Cómo contactarme: [Urielortega300@gmail.com].
 - ⚡ Dato curioso: Me encanta escuchar música y salir a pasear..
 
 ## Proyectos Destacados
 
-### [Barberia Alura]
+###🧔🏻💇🏻‍♂️ Barberia Alura
 Creamos una pagina en el curos de Alura . [mayhrina30.github.io/Barberia_Alura/](https://github.com/tuusuario/nombre-del-proyecto-1).
 
 ### EcoEncuentro - Inkua🌱🌱
@@ -27,7 +27,7 @@ Esta plataforma se dedica a fomentar la participación en actividades de volunta
 - Tecnologías y Herramientas: Visual Studio Code Git GitHub
 - Otros: Spring boot, Msql ,Git.
 
-## Contacto
+## Contacto☎️
 
 Puedes encontrarme en:
 - LinkedIn: https://www.linkedin.com/in/mayra-anabel-manzaneda
@@ -36,4 +36,4 @@ Puedes encontrarme en:
 
 ---
 
-¡Gracias por visitar mi perfil! 
+¡Gracias por visitar mi perfil! 😊
