@@ -1,11 +1,10 @@
-+<h1 align="center">Hola 👋, soy Mayra Manzaneda</h1>
-<h3 align="center">Soy Tecnica en Programacion</h3>
+<h1 align="center">Hola 👋, soy Mayra Manzaneda</h1>
+<h3 align="center">Soy Tecnica en Programacion👩🏽‍💻</h3>
 
-<p align="center">
-  <img src="images/programadora-backend.png" alt="Programadora Back-end">
-</p>
+![HolaHelloGIF](https://github.com/mayhrina30/mayhrina30/assets/92487756/134f27ff-82b2-48b9-a791-1940c488f178)
 
--## Acerca de Mí
+
+## Acerca de Mí
 
 - 🌱 Actualmente estoy aprendiendo: [Python y MongoB].
 - 👯 Estoy buscando colaborar en: [proyectos o tecnologías].
@@ -24,9 +23,9 @@ Esta plataforma se dedica a fomentar la participación en actividades de volunta
 
 ## Habilidades
 
-- Lenguajes de Programación: Java , Javascrip , Mysql , Git.
-- Tecnologías y Herramientas: [lista de tecnologías y herramientas que usas].
-- Otros: [otras habilidades relevantes].
+- Lenguajes de Programación: Java , Javascrip .
+- Tecnologías y Herramientas: Visual Studio Code Git GitHub
+- Otros: Spring boot, Msql ,Git.
 
 ## Contacto
 
