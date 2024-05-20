@@ -13,11 +13,11 @@
 
 ## Proyectos Destacados
 
-🧔🏻💇🏻‍♂️ Barberia - Alura
+<2>Barberia - Alura🧔🏻💇🏻‍♂️</h2>
 
-Creamos una pagina en el curos de Alura . [mayhrina30.github.io/Barberia_Alura/](https://github.com/tuusuario/nombre-del-proyecto-1).
+Creamos una pagina  web en el curso de Alura . [mayhrina30.github.io/Barberia_Alura/](https://github.com/tuusuario/nombre-del-proyecto-1).
 
-### EcoEncuentro - Inkua🌱🌱
+<h2>EcoEncuentro - Inkua🌱🌱</h2>
 ¿DE QUE SE TRATA?
 Esta plataforma se dedica a fomentar la participación en actividades de voluntariado relacionadas con el medio ambiente. Ofrecemos una manera sencilla y efectiva de conectar a personas con un espíritu solidario y amor por la. [eco-encuentro.netlify.app/](https://github.com/mayhrina30/Proyecto_EcoEncuentro_inkua)
 
