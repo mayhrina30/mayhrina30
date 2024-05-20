@@ -2,7 +2,7 @@
 <h3 align="center">Soy Tecnica en Programacion</h3>
 
 <div align="center">
-<img src="(https://github.com/mayhrina30/mayhrina30/blob/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif)" />
+<img src=["(https://github.com/mayhrina30/mayhrina30/blob/main/Foto%20de%20Perfil%20de%20LinkedIn%20Programador%20Geometrica%20Blanca%20Amarilla.gif)" />]
 </div>  
  
 
