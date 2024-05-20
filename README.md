@@ -18,7 +18,7 @@
 Descripción breve de lo que hace este proyecto. [Enlace al proyecto](https://github.com/tuusuario/nombre-del-proyecto-1).
 
 ### [EcoEncuentro]
-Descripción breve de lo que hace este proyecto. [Enlace al proyecto](https://github.com/tuusuario/nombre-del-proyecto-2).
+Descripción breve de lo que hace este proyecto. eco-encuentro.netlify.app/.
 
 
 ## Habilidades
