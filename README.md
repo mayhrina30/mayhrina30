@@ -13,7 +13,8 @@
 
 ## Proyectos Destacados
 
-###🧔🏻💇🏻‍♂️ Barberia Alura
+🧔🏻💇🏻‍♂️ Barberia - Alura
+
 Creamos una pagina en el curos de Alura . [mayhrina30.github.io/Barberia_Alura/](https://github.com/tuusuario/nombre-del-proyecto-1).
 
 ### EcoEncuentro - Inkua🌱🌱
