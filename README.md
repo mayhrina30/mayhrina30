@@ -13,7 +13,7 @@
 
 ## Proyectos Destacados
 
-<2>Barberia - Alura🧔🏻💇🏻‍♂️</h2>
+<h2>Barberia - Alura🧔🏻💇🏻‍♂️</h2>
 
 Creamos una pagina  web en el curso de Alura . [mayhrina30.github.io/Barberia_Alura/](https://github.com/tuusuario/nombre-del-proyecto-1).
 
