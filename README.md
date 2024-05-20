@@ -33,7 +33,7 @@ Descripción breve de lo que hace este proyecto. [Enlace al proyecto](https://gi
 ## Contacto
 
 Puedes encontrarme en:
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario/)
+- LinkedIn: [Tu Perfil de LinkedIn]((https://linkedin.com/in/https://www.linkedin.com/in/mayra-anabel-manzaneda) )
 
 - Correo Electrónico: [tu-email@dominio.com](mailto:tu-email@dominio.com)
 
