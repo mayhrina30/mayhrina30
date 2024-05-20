@@ -15,7 +15,7 @@
 ## Proyectos Destacados
 
 ### [Barberia Alura]
-Descripción breve de lo que hace este proyecto. [Enlace al proyecto](https://github.com/tuusuario/nombre-del-proyecto-1).
+Creamos una pagina en el curos de Alura . [mayhrina30.github.io/Barberia_Alura/](https://github.com/tuusuario/nombre-del-proyecto-1).
 
 ### EcoEncuentro - Inkua🌱🌱
 ¿DE QUE SE TRATA?
@@ -31,7 +31,7 @@ Esta plataforma se dedica a fomentar la participación en actividades de volunta
 ## Contacto
 
 Puedes encontrarme en:
-- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/mayra-anabel-manzaneda
+- LinkedIn: https://www.linkedin.com/in/mayra-anabel-manzaneda
 
 - Correo Electrónico: urielortega300@gmail.com
 
