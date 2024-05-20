@@ -14,26 +14,26 @@
 
 ## Proyectos Destacados
 
-### [Nombre del Proyecto 1]
+### [Barberia Alura]
 Descripción breve de lo que hace este proyecto. [Enlace al proyecto](https://github.com/tuusuario/nombre-del-proyecto-1).
 
-###EcoEncuentro - Inkua🌱🌱
+### EcoEncuentro - Inkua🌱🌱
 ¿DE QUE SE TRATA?
 Esta plataforma se dedica a fomentar la participación en actividades de voluntariado relacionadas con el medio ambiente. Ofrecemos una manera sencilla y efectiva de conectar a personas con un espíritu solidario y amor por la. [eco-encuentro.netlify.app/](https://github.com/mayhrina30/Proyecto_EcoEncuentro_inkua)
 
 
 ## Habilidades
 
-- Lenguajes de Programación: [lista de lenguajes de programación que conoces].
+- Lenguajes de Programación: Java , Javascrip , Mysql , Git.
 - Tecnologías y Herramientas: [lista de tecnologías y herramientas que usas].
 - Otros: [otras habilidades relevantes].
 
 ## Contacto
 
 Puedes encontrarme en:
-- LinkedIn: [Tu Perfil de LinkedIn]((https://linkedin.com/in/https://www.linkedin.com/in/mayra-anabel-manzaneda) )
+- LinkedIn: [[Tu Perfil de LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/mayra-anabel-manzaneda)]((https://linkedin.com/in/https://www.linkedin.com/in/mayra-anabel-manzaneda) )
 
-- Correo Electrónico: [tu-email@dominio.com](mailto:tu-email@dominio.com)
+- Correo Electrónico: urielortega300@gmail.com
 
 ---
 
