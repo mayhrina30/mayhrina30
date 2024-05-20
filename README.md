@@ -31,7 +31,7 @@ Esta plataforma se dedica a fomentar la participación en actividades de volunta
 ## Contacto
 
 Puedes encontrarme en:
-- LinkedIn: [[Tu Perfil de LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/mayra-anabel-manzaneda)]((https://linkedin.com/in/https://www.linkedin.com/in/mayra-anabel-manzaneda) )
+- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/mayra-anabel-manzaneda
 
 - Correo Electrónico: urielortega300@gmail.com
 
