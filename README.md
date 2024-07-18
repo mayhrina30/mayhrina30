@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, soy Mayra Manzaneda</h1>
 <h3 align="center">Soy Tecnica en Programacion👩🏽‍💻</h3>
+<p></p>Estoy en búsqueda de nuevas oportunidades laborales en el campo de  programación.
+Estoy entusiasmada por explorar roles que me permitan aplicar y expandir mis habilidades en el back-end.
 
 ![HolaHelloGIF](https://github.com/mayhrina30/mayhrina30/assets/92487756/134f27ff-82b2-48b9-a791-1940c488f178)
 
