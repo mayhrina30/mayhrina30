@@ -8,9 +8,9 @@ Estoy entusiasmada por explorar roles que me permitan aplicar y expandir mis hab
 
 ## Acerca de Mí
 
-- 🌱 Actualmente estoy aprendiendo: Python y MongoB.
+- 🌱 Actualmente estoy : estudiando la tecnicatura en redes y ciberseguridad.
 - 👯 Estoy buscando colaborar en: Proyectos de código abierto y eventos de programación.  .
-- 📫 Cómo contactarme: [Urielortega300@gmail.com].
+- 📫 Cómo contactarme: [mayraanabel2323@gmail.com].
 - ⚡ Dato curioso: Me encanta escuchar música y salir a pasear..
 
 ## Proyectos Destacados
