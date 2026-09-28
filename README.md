@@ -8,7 +8,7 @@ Estoy entusiasmada por explorar roles que me permitan aplicar y expandir mis hab
 
 ## Acerca de Mí
 
-- 🌱 Actualmente estoy : estudiando la tecnicatura en redes y ciberseguridad.
+- 🌱 Actualmente estoy : buscando oportunidades.
 - 👯 Estoy buscando colaborar en: Proyectos de código abierto y eventos de programación.  .
 - 📫 Cómo contactarme: [mayraanabel2323@gmail.com].
 - ⚡ Dato curioso: Me encanta escuchar música y salir a pasear..
